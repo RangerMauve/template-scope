@@ -1,0 +1,26 @@
+{
+  "name": "template-scope",
+  "version": "1.0.0",
+  "description": "Manage nested scopes for use in template engines",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RangerMauve/template-scope.git"
+  },
+  "keywords": [
+    "tempalte",
+    "scope",
+    "chain",
+    "prototype",
+    "lookup"
+  ],
+  "author": "rangermauve",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RangerMauve/template-scope/issues"
+  },
+  "homepage": "https://github.com/RangerMauve/template-scope#readme"
+}
