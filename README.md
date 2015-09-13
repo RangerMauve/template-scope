@@ -37,7 +37,7 @@ Creates a new instance of the scope. Doesn't take any arguments so do what you w
 
 ### `Scope#push(scope)`
 Adds an object for use in the lookup. Objects added later will be searched first.
-- `scope` An object for use in the lookup process
+- `scope` A value for use in the lookup process. If the value isn't an object or array, it'll be skipped over.
 
 Returns the scope instance for chaining.
 

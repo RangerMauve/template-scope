@@ -1,6 +1,6 @@
 {
   "name": "template-scope",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Manage nested scopes for use in template engines",
   "main": "index.js",
   "scripts": {
